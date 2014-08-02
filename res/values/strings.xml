@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Contacts2Sim</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+     <string name="see">See contacts on SIM</string>
+    <string name="clear">Clear SIM contacts</string>
+    <string name="insert">Export contacts to SIM</string>
+
+</resources>
